@@ -1,7 +1,5 @@
 from flask import Flask, render_template
 
-# We need here to render a page "HTML css JS" not print message
-
 # Name of application
 first_app = Flask(__name__)
 

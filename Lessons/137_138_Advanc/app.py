@@ -3,7 +3,7 @@ from flask import Flask, render_template
 # Name of application
 first_app = Flask(__name__)
 
-myTeam = [(1, 'Amir'), (2, 'Ahmed'), (3, 'Shrouq'), (4, 'Omnia'), (5, 'Mayar')]
+myTeam = [(1, 'Amir'), (2, 'Ahmed'), (3, 'Shrouk'), (4, 'Omnia'), (5, 'Mayar')]
 
 
 # distribute routes like amir.com/
